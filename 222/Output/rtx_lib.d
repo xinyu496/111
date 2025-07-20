@@ -1,0 +1,10 @@
+..\..\output\rtx_lib.o: D:\keil_set\ARM\CMSIS\5.7.0\CMSIS\RTOS2\RTX\Source\rtx_lib.c
+..\..\output\rtx_lib.o: D:\keil_set\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h
+..\..\output\rtx_lib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\rtx_lib.o: D:\keil_set\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h
+..\..\output\rtx_lib.o: .\RTE\CMSIS\RTX_Config.h
+..\..\output\rtx_lib.o: .\RTE\_SPI_FLASH\RTE_Components.h
+..\..\output\rtx_lib.o: D:\keil_set\ARM\CMSIS\5.7.0\CMSIS\RTOS2\RTX\Include\rtx_os.h
+..\..\output\rtx_lib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\..\output\rtx_lib.o: D:\keil_set\ARM\CMSIS\5.7.0\CMSIS\RTOS2\Include\cmsis_os2.h
+..\..\output\rtx_lib.o: D:\keil_set\ARM\CMSIS\5.7.0\CMSIS\RTOS2\RTX\Include\rtx_evr.h
